@@ -6,5 +6,3 @@ dirty_data3 = subset(mydata,select = -c(Strange.HTML))
 # Write the updated data into csv file
 write.csv(dirty_data3,file = "dirty_data3.csv")
 
-
-

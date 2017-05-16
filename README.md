@@ -1,3 +1,4 @@
 # Data-Cleanup-Assignment
-DUE on May 21, 2017
-removed the "Strange.HTML" Column
+=======
+When the filtering is done please save your data set as a new file. 
+
